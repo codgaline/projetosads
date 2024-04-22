@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title> Finanças+ </title>
+
+        <style>
+
+            body {
+
+                font-family: Arial, sans-serif;
+
+            }
+
+        </style>
+
+    </head>
+
+    <body>
+        <div style="text-align: center;">
+            <img src = "file:///C:/Users/magnolia.hiller/Downloads/OIG1.jiqJRh8Z29dc20RdFO1C" width="142" height="142">
+          </div>
+          
+        <h1 style="font-size:25px;">Tem dificuldade no gerenciamento das suas finanças? </h1>
+        <p> Gerencie e acompanhe suas finanças pessoais de forma simples e eficaz com o Finanças+. </p>
+          
+        <h2 style="font-size:20px;"> O nosso aplicativo proporciona uma facilidade no gerenciamento de suas finanças, apresentando uma interface de fácil compreensão e acessibilidade a qualquer momento do seu dia. Essa característica torna a tarefa de gerenciar suas finanças simples e altamente benéfica.</h2>
+        <p>Devido à ausência de uma plataforma de fácil utilização e acesso, a gestão financeira pode se tornar uma tarefa consideravelmente complexa e prejudicial, dificultando o controle efetivo sobre os próprios recursos financeiros. Essa dificuldade afeta adversamente inúmeras vidas, as quais poderiam desfrutar de uma melhoria significativa mediante a disponibilidade de um aplicativo cotidiano capaz de registrar todas as despesas e oferecer controle abrangente sobre as finanças pessoais.</p>
+
+        <h3> Ta começando a tomar controle de sua vida financeira? </h3>
+        <p> O Finanças+ pode te ajudar! É amplamente reconhecido que iniciar uma tarefa pela primeira vez pode ser desafiador, especialmente quando se trata de assumir o controle abrangente de sua vida financeira. Muitos jovens enfrentam dificuldades ao receberem seu primeiro salário, carecendo de orientação sobre como gerenciá-lo eficazmente. Além disso, jovens adultos frequentemente demoram a estabelecer práticas organizacionais adequadas para suas finanças. Nosso aplicativo simplifica essas tarefas complexas, proporcionando uma abordagem acessível e intuitiva, adequada para usuários de todos os níveis de experiência, inclusive aqueles com pouca ou nenhuma familiaridade prévia com o assunto. </p>
+
+        <h4>E como funciona o Finanças+ ?</h4>
+        <p> A nossas proposta é proporcionar uma ferramenta dedicada a simplificar e otimizar a gestão das suas finanças pessoais. Com uma plataforma intuitiva e amigável, você pode rastrear seus gastos, categorizar despesas, estabelecer metas de economia e receber alertas sobre gastos excessivos, tudo em um único lugar. O nosso aplicativo oferece um controle completo sobre suas finanças, proporcionando-lhe tranquilidade e segurança financeira para o futuro. Com ele, você pode ter uma visão clara da sua situação financeira e tomar decisões informadas para alcançar seus objetivos financeiros de forma mais eficiente. </p>
+
+        <p>Equipe: Aline Gabrielly e Magnólia Hiller</p>
+    
+      </body>
+
+</html>
+
